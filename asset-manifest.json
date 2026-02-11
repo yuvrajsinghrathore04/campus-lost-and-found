@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/campus-lost-and-found/static/css/main.779cb0e0.css",
+    "main.js": "/campus-lost-and-found/static/js/main.2c3a06e0.js",
+    "index.html": "/campus-lost-and-found/index.html",
+    "main.779cb0e0.css.map": "/campus-lost-and-found/static/css/main.779cb0e0.css.map",
+    "main.2c3a06e0.js.map": "/campus-lost-and-found/static/js/main.2c3a06e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.779cb0e0.css",
+    "static/js/main.2c3a06e0.js"
+  ]
+}
